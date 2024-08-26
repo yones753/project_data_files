@@ -1,31 +1,31 @@
 task_id,owner_id,project,tag,label,worker_id,task,pr_env,user_story,day,currant_sprint
-1,1005,Project Alpha,feature,Bug,101,TASK-123,production,As a user I want to reset my password,Monday,sprint-1
-2,1006,Project Beta,enhancement,enhancement,102,TASK-456,staging,As an admin I want to manage user roles,Tuesday,sprint-2
-3,1007,Project Gamma,development,Bug,103,TASK-789,development,As a customer I want to track my order,Wednesday,sprint-3
-4,1008,Project Delta,search,enhancement,104,TASK-101,production,As a visitor I want to search for products,Thursday,sprint-4
-5,1009,Project Epsilon,reports,Bug,105,TASK-202,staging,As a manager I want to view reports,Friday,sprint-1
-6,1010,Project Alpha,documentation,documentation,101,TASK-124,production,As a developer I want to read the API docs,Monday,sprint-1
-7,1011,Project Beta,profile,help_wanted,102,TASK-457,staging,As a user I want to update my profile,Tuesday,sprint-2
-8,1001,Project Gamma,bugs,duplicate,103,TASK-790,development,As a QA I want to report bugs,Wednesday,sprint-3
-9,1002,Project Delta,email,invalid,104,TASK-102,production,As a user I want to change my email,Thursday,sprint-4
-10,1003,Project Epsilon,deactivation,wontfix,105,TASK-203,staging,As an admin I want to deactivate users,Friday,sprint-1
-11,1004,Project Alpha,notifications,good_first_issue,101,TASK-125,production,As a user I want to receive notifications,Monday,sprint-1
-12,1005,Project Beta,order_history,Bug,102,TASK-458,staging,As a customer I want to view my order history,Tuesday,sprint-2
-13,1006,Project Gamma,code_optimization,enhancement,103,TASK-791,development,As a developer I want to optimize the code,Wednesday,sprint-3
-14,1007,Project Delta,data_export,documentation,104,TASK-103,production,As a manager I want to export data,Thursday,sprint-4
-15,1008,Project Epsilon,two_factor_auth,help_wanted,105,TASK-204,staging,As a user I want to set up two-factor authentication,Friday,sprint-1
-16,1009,Project Alpha,browsing,question,101,TASK-126,production,As a visitor I want to browse product categories,Monday,sprint-1
-17,1010,Project Beta,password_reset,wontfix,102,TASK-459,staging,As an admin I want to reset user passwords,Tuesday,sprint-2
-18,1011,Project Gamma,discount_codes,duplicate,103,TASK-792,development,As a customer I want to apply discount codes,Wednesday,sprint-3
-19,1001,Project Delta,unsubscribe,invalid,104,TASK-104,production,As a user I want to unsubscribe from emails,Thursday,sprint-4
-20,1002,Project Epsilon,shipping_address,Bug,105,TASK-205,staging,As a user I want to update my shipping address,Friday,sprint-1
-21,1003,Project Alpha,dashboard,good_first_issue,101,TASK-127,production,As a user I want to customize my dashboard,Monday,sprint-1
-22,1004,Project Beta,site_content,enhancement,102,TASK-460,staging,As an admin I want to manage site content,Tuesday,sprint-2
-23,1005,Project Gamma,testing,help_wanted,103,TASK-793,development,As a developer I want to test the application,Wednesday,sprint-3
-24,1006,Project Delta,meetings,documentation,104,TASK-105,production,As a manager I want to schedule meetings,Thursday,sprint-4
-25,1007,Project Epsilon,product_reviews,question,105,TASK-206,staging,As a customer I want to leave product reviews,Friday,sprint-1
-26,1008,Project Alpha,dark_mode,wontfix,101,TASK-128,production,As a user I want to enable dark mode,Monday,sprint-1
-27,1009,Project Beta,test_cases,duplicate,102,TASK-461,staging,As a QA I want to create test cases,Tuesday,sprint-2
-28,1010,Project Gamma,system_uptime,invalid,103,TASK-794,development,As an admin I want to track system uptime,Wednesday,sprint-3
-29,1011,Project Delta,payment_confirmations,Bug,104,TASK-106,production,As a user I want to receive payment confirmations,Thursday,sprint-4
-30,1001,Project Epsilon,password_change,good_first_issue,105,TASK-207,staging,As a user I want to change my password,Friday,sprint-1
+1,1005,Project Alpha,feature,Bug,101,TASK-123,production,As a user I want to reset my password,4,sprint-1
+2,1006,Project Beta,enhancement,enhancement,102,TASK-456,staging,As an admin I want to manage user roles,3,sprint-2
+3,1007,Project Gamma,development,Bug,103,TASK-789,development,As a customer I want to track my order,7,sprint-3
+4,1008,Project Delta,search,enhancement,104,TASK-101,production,As a visitor I want to search for products,2,sprint-4
+5,1009,Project Epsilon,reports,Bug,105,TASK-202,staging,As a manager I want to view reports,5,sprint-1
+6,1010,Project Alpha,documentation,documentation,101,TASK-124,production,As a developer I want to read the API docs,6,sprint-1
+7,1011,Project Beta,profile,help_wanted,102,TASK-457,staging,As a user I want to update my profile,4,sprint-2
+8,1001,Project Gamma,bugs,duplicate,103,TASK-790,development,As a QA I want to report bugs,1,sprint-3
+9,1002,Project Delta,email,invalid,104,TASK-102,production,As a user I want to change my email,3,sprint-4
+10,1003,Project Epsilon,deactivation,wontfix,105,TASK-203,staging,As an admin I want to deactivate users,5,sprint-1
+11,1004,Project Alpha,notifications,good_first_issue,101,TASK-125,production,As a user I want to receive notifications,2,sprint-1
+12,1005,Project Beta,order_history,Bug,102,TASK-458,staging,As a customer I want to view my order history,7,sprint-2
+13,1006,Project Gamma,code_optimization,enhancement,103,TASK-791,development,As a developer I want to optimize the code,6,sprint-3
+14,1007,Project Delta,data_export,documentation,104,TASK-103,production,As a manager I want to export data,3,sprint-4
+15,1008,Project Epsilon,two_factor_auth,help_wanted,105,TASK-204,staging,As a user I want to set up two-factor authentication,7,sprint-1
+16,1009,Project Alpha,browsing,question,101,TASK-126,production,As a visitor I want to browse product categories,4,sprint-1
+17,1010,Project Beta,password_reset,wontfix,102,TASK-459,staging,As an admin I want to reset user passwords,5,sprint-2
+18,1011,Project Gamma,discount_codes,duplicate,103,TASK-792,development,As a customer I want to apply discount codes,2,sprint-3
+19,1001,Project Delta,unsubscribe,invalid,104,TASK-104,production,As a user I want to unsubscribe from emails,6,sprint-4
+20,1002,Project Epsilon,shipping_address,Bug,105,TASK-205,staging,As a user I want to update my shipping address,3,sprint-1
+21,1003,Project Alpha,dashboard,good_first_issue,101,TASK-127,production,As a user I want to customize my dashboard,1,sprint-1
+22,1004,Project Beta,site_content,enhancement,102,TASK-460,staging,As an admin I want to manage site content,4,sprint-2
+23,1005,Project Gamma,testing,help_wanted,103,TASK-793,development,As a developer I want to test the application,7,sprint-3
+24,1006,Project Delta,meetings,documentation,104,TASK-105,production,As a manager I want to schedule meetings,2,sprint-4
+25,1007,Project Epsilon,product_reviews,question,105,TASK-206,staging,As a customer I want to leave product reviews,5,sprint-1
+26,1008,Project Alpha,dark_mode,wontfix,101,TASK-128,production,As a user I want to enable dark mode,6,sprint-1
+27,1009,Project Beta,test_cases,duplicate,102,TASK-461,staging,As a QA I want to create test cases,3,sprint-2
+28,1010,Project Gamma,system_uptime,invalid,103,TASK-794,development,As an admin I want to track system uptime,7,sprint-3
+29,1011,Project Delta,payment_confirmations,Bug,104,TASK-106,production,As a user I want to receive payment confirmations,4,sprint-4
+30,1001,Project Epsilon,password_change,good_first_issue,105,TASK-207,staging,As a user I want to change my password,6,sprint-1
