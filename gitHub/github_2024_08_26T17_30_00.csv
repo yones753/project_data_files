@@ -1,0 +1,6 @@
+manager_id,projects,assignee,label,developer_id,issue,environment,us,point,sprint
+1,Project Alpha,John Doe,bug,101,ISS-123,production,us-east,10,sprint-1
+2,Project Beta,Jane Smith,feature,102,ISS-456,staging,us-west,20,sprint-2
+3,Project Gamma,Bob Johnson,bug,103,ISS-789,development,us-central,15,sprint-3
+4,Project Delta,Alice Davis,enhancement,104,ISS-101,production,us-east,5,sprint-4
+5,Project Epsilon,Michael Brown,bug,105,ISS-202,staging,us-west,30,sprint-1
