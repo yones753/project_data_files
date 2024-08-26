@@ -1,6 +1,11 @@
-manager_id,projects,assignee,label,developer_id,issue,environment,us,point,sprint
-1,Project Alpha,John Doe,bug,101,ISS-123,production,us-east,10,sprint-1
-2,Project Beta,Jane Smith,feature,102,ISS-456,staging,us-west,20,sprint-2
-3,Project Gamma,Bob Johnson,bug,103,ISS-789,development,us-central,15,sprint-3
-4,Project Delta,Alice Davis,enhancement,104,ISS-101,production,us-east,5,sprint-4
-5,Project Epsilon,Michael Brown,bug,105,ISS-202,staging,us-west,30,sprint-1
+task_id,manager_id,projects,assignee,label,developer_id,issue,environment,user_store,point,sprint
+1,1,Project Alpha,John Doe,bug,101,ISS-123,production,us-east,10,sprint-1
+2,1,Project Beta,Jane Smith,feature,102,ISS-456,staging,us-west,20,sprint-2
+3,2,Project Gamma,Bob Johnson,bug,103,ISS-789,development,us-central,15,sprint-3
+4,2,Project Delta,Alice Davis,enhancement,104,ISS-101,production,us-east,5,sprint-4
+5,3,Project Epsilon,Michael Brown,bug,105,ISS-202,staging,us-west,30,sprint-1
+6,1,Project Zeta,John Doe,documentation,101,ISS-303,development,us-central,25,sprint-2
+7,2,Project Eta,Jane Smith,bug,104,ISS-404,production,us-east,15,sprint-3
+8,3,Project Theta,Bob Johnson,feature,103,ISS-505,staging,us-west,35,sprint-4
+9,1,Project Iota,Alice Davis,enhancement,102,ISS-606,production,us-east,20,sprint-1
+10,2,Project Kappa,Michael Brown,bug,105,ISS-707,development,us-central,10,sprint-2
