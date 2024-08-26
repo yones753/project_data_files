@@ -1,31 +1,31 @@
 task_id,manager_id,projects,assignee,label,developer_id,issue,environment,user_story,point,sprint
-1,1005,Project Alpha,John Doe,Bug,101,ISS-123,production,As a user, I want to reset my password,2,sprint-1
-2,1006,Project Beta,Jane Smith,enhancement,102,ISS-456,staging,As an admin, I want to manage user roles,3,sprint-2
-3,1007,Project Gamma,Bob Johnson,Bug,103,ISS-789,development,As a customer, I want to track my order,5,sprint-3
-4,1008,Project Delta,Alice Davis,enhancement,104,ISS-101,production,As a visitor, I want to search for products,5,sprint-4
-5,1009,Project Epsilon,Michael Brown,Bug,105,ISS-202,staging,As a manager, I want to view reports,3,sprint-1
-6,1010,Project Alpha,John Doe,documentation,101,ISS-124,production,As a developer, I want to read the API docs,8,sprint-1
-7,1011,Project Beta,Jane Smith,help_wanted,102,ISS-457,staging,As a user, I want to update my profile,8,sprint-2
-8,1001,Project Gamma,Bob Johnson,duplicate,103,ISS-790,development,As a QA, I want to report bugs,2,sprint-3
-9,1002,Project Delta,Alice Davis,invalid,104,ISS-102,production,As a user, I want to change my email,6,sprint-4
-10,1003,Project Epsilon,Michael Brown,wontfix,105,ISS-203,staging,As an admin, I want to deactivate users,2,sprint-1
-11,1004,Project Alpha,John Doe,good_first_issue,101,ISS-125,production,As a user, I want to receive notifications,7,sprint-1
-12,1005,Project Beta,Jane Smith,Bug,102,ISS-458,staging,As a customer, I want to view my order history,2,sprint-2
-13,1006,Project Gamma,Bob Johnson,enhancement,103,ISS-791,development,As a developer, I want to optimize the code,7,sprint-3
-14,1007,Project Delta,Alice Davis,documentation,104,ISS-103,production,As a manager, I want to export data,3,sprint-4
-15,1008,Project Epsilon,Michael Brown,help_wanted,105,ISS-204,staging,As a user, I want to set up two-factor authentication,27,sprint-1
-16,1009,Project Alpha,John Doe,question,101,ISS-126,production,As a visitor, I want to browse product categories,1,sprint-1
-17,1010,Project Beta,Jane Smith,wontfix,102,ISS-459,staging,As an admin, I want to reset user passwords,9,sprint-2
-18,1011,Project Gamma,Bob Johnson,duplicate,103,ISS-792,development,As a customer, I want to apply discount codes,4,sprint-3
-19,1001,Project Delta,Alice Davis,invalid,104,ISS-104,production,As a user, I want to unsubscribe from emails,4,sprint-4
-20,1002,Project Epsilon,Michael Brown,Bug,105,ISS-205,staging,As a user, I want to update my shipping address,1,sprint-1
-21,1003,Project Alpha,John Doe,good_first_issue,101,ISS-127,production,As a user, I want to customize my dashboard,1,sprint-1
-22,1004,Project Beta,Jane Smith,enhancement,102,ISS-460,staging,As an admin, I want to manage site content,2,sprint-2
-23,1005,Project Gamma,Bob Johnson,help_wanted,103,ISS-793,development,As a developer, I want to test the application,6,sprint-3
-24,1006,Project Delta,Alice Davis,documentation,104,ISS-105,production,As a manager, I want to schedule meetings,2,sprint-4
-25,1007,Project Epsilon,Michael Brown,question,105,ISS-206,staging,As a customer, I want to leave product reviews,4,sprint-1
-26,1008,Project Alpha,John Doe,wontfix,101,ISS-128,production,As a user, I want to enable dark mode,9,sprint-1
-27,1009,Project Beta,Jane Smith,duplicate,102,ISS-461,staging,As a QA, I want to create test cases,3,sprint-2
-28,1010,Project Gamma,Bob Johnson,invalid,103,ISS-794,development,As an admin, I want to track system uptime,5,sprint-3
-29,1011,Project Delta,Alice Davis,Bug,104,ISS-106,production,As a user, I want to receive payment confirmations,9,sprint-4
-30,1001,Project Epsilon,Michael Brown,good_first_issue,105,ISS-207,staging,As a user, I want to change my password,8,sprint-1
+1,1005,Project Alpha,John Doe,Bug,101,ISS-123,production,As a user I want to reset my password,2,sprint-1
+2,1006,Project Beta,Jane Smith,enhancement,102,ISS-456,staging,As an admin I want to manage user roles,3,sprint-2
+3,1007,Project Gamma,Bob Johnson,Bug,103,ISS-789,development,As a customer I want to track my order,5,sprint-3
+4,1008,Project Delta,Alice Davis,enhancement,104,ISS-101,production,As a visitor I want to search for products,5,sprint-4
+5,1009,Project Epsilon,Michael Brown,Bug,105,ISS-202,staging,As a manager I want to view reports,3,sprint-1
+6,1010,Project Alpha,John Doe,documentation,101,ISS-124,production,As a developer I want to read the API docs,8,sprint-1
+7,1011,Project Beta,Jane Smith,help_wanted,102,ISS-457,staging,As a user I want to update my profile,8,sprint-2
+8,1001,Project Gamma,Bob Johnson,duplicate,103,ISS-790,development,As a QA I want to report bugs,2,sprint-3
+9,1002,Project Delta,Alice Davis,invalid,104,ISS-102,production,As a user I want to change my email,6,sprint-4
+10,1003,Project Epsilon,Michael Brown,wontfix,105,ISS-203,staging,As an admin I want to deactivate users,2,sprint-1
+11,1004,Project Alpha,John Doe,good_first_issue,101,ISS-125,production,As a user I want to receive notifications,7,sprint-1
+12,1005,Project Beta,Jane Smith,Bug,102,ISS-458,staging,As a customer I want to view my order history,2,sprint-2
+13,1006,Project Gamma,Bob Johnson,enhancement,103,ISS-791,development,As a developer I want to optimize the code,7,sprint-3
+14,1007,Project Delta,Alice Davis,documentation,104,ISS-103,production,As a manager I want to export data,3,sprint-4
+15,1008,Project Epsilon,Michael Brown,help_wanted,105,ISS-204,staging,As a user I want to set up two-factor authentication,27,sprint-1
+16,1009,Project Alpha,John Doe,question,101,ISS-126,production,As a visitor I want to browse product categories,1,sprint-1
+17,1010,Project Beta,Jane Smith,wontfix,102,ISS-459,staging,As an admin I want to reset user passwords,9,sprint-2
+18,1011,Project Gamma,Bob Johnson,duplicate,103,ISS-792,development,As a customer I want to apply discount codes,4,sprint-3
+19,1001,Project Delta,Alice Davis,invalid,104,ISS-104,production,As a user I want to unsubscribe from emails,4,sprint-4
+20,1002,Project Epsilon,Michael Brown,Bug,105,ISS-205,staging,As a user I want to update my shipping address,1,sprint-1
+21,1003,Project Alpha,John Doe,good_first_issue,101,ISS-127,production,As a user I want to customize my dashboard,1,sprint-1
+22,1004,Project Beta,Jane Smith,enhancement,102,ISS-460,staging,As an admin I want to manage site content,2,sprint-2
+23,1005,Project Gamma,Bob Johnson,help_wanted,103,ISS-793,development,As a developer I want to test the application,6,sprint-3
+24,1006,Project Delta,Alice Davis,documentation,104,ISS-105,production,As a manager I want to schedule meetings,2,sprint-4
+25,1007,Project Epsilon,Michael Brown,question,105,ISS-206,staging,As a customer I want to leave product reviews,4,sprint-1
+26,1008,Project Alpha,John Doe,wontfix,101,ISS-128,production,As a user I want to enable dark mode,9,sprint-1
+27,1009,Project Beta,Jane Smith,duplicate,102,ISS-461,staging,As a QA I want to create test cases,3,sprint-2
+28,1010,Project Gamma,Bob Johnson,invalid,103,ISS-794,development,As an admin I want to track system uptime,5,sprint-3
+29,1011,Project Delta,Alice Davis,Bug,104,ISS-106,production,As a user I want to receive payment confirmations,9,sprint-4
+30,1001,Project Epsilon,Michael Brown,good_first_issue,105,ISS-207,staging,As a user I want to change my password,8,sprint-1
