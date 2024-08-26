@@ -1,6 +1,6 @@
 task_id,manager_id,projects,assignee,label,developer_id,issue,environment,user_story,point,sprint
 1,1005,Project Alpha,John Doe,Bug,101,ISS-123,production,As a user, I want to reset my password,2,sprint-1
-2,1006,Project Beta,Jane Smith,feature,102,ISS-456,staging,As an admin, I want to manage user roles,3,sprint-2
+2,1006,Project Beta,Jane Smith,enhancement,102,ISS-456,staging,As an admin, I want to manage user roles,3,sprint-2
 3,1007,Project Gamma,Bob Johnson,Bug,103,ISS-789,development,As a customer, I want to track my order,5,sprint-3
 4,1008,Project Delta,Alice Davis,enhancement,104,ISS-101,production,As a visitor, I want to search for products,5,sprint-4
 5,1009,Project Epsilon,Michael Brown,Bug,105,ISS-202,staging,As a manager, I want to view reports,3,sprint-1
